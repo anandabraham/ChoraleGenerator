@@ -1,0 +1,1 @@
+jython -i musicGenerator.py
